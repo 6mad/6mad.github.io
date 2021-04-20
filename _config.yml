@@ -99,6 +99,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:6mad/6mad.github.io.git
+  repo: https://github.com/6mad/6mad.github.io.git
   branch: main
   message: Myvscode
