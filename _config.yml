@@ -10,10 +10,10 @@ keywords:
 author: 6mad
 language: zh-cn
 timezone: "Asia/Shanghai"
-
+favicon: /favicon.ico
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://fftu.tk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
